@@ -1,2 +1,6 @@
 # nodejs-goof
+
 This is a vulnerable Node.js application used to demonstrate the impact of known vulnerabilities in Node.js applications...
+# 8.2CDevSecOps - nodejs-goof
+
+This is a vulnerable Node.js application used to demonstrate...
